@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function square() {
-  return <button className="square">Square</button>;
+export default function Square() {
+  return <button className="square"></button>;
 }
